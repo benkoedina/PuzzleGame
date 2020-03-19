@@ -16,21 +16,21 @@ A* algoritmus, 8-as kirakójáték:
 		-nvisited: a standard kimenetre írja a meglátogatott csomópontok számát.
 		-cancel :  kilépés a menüből.
 	Ha fájlból akarjuk megadni a kezdő állapotot a startPosition.txt fájlt kell megadni.
+	
+	1. Bemenet: (3*3-as mátrix formában kell megadni, másként nem megy a file-bólvaló olvasás)
 
-1. Bemenet: (3*3-as mátrix formában kell megadni, másként nem megy a file-bólvaló olvasás)
+		1 8 2
+		0 4 3
+		7 6 5 
 
-1 8 2
-0 4 3
-7 6 5 
+		->költség: 17
+		->meglátogatott csomópontok:7313
 
-->költség: 17
-->meglátogatott csomópontok:7313
+	2. Bemenet
 
-2. Bemenet
+		1 2 3
+		4 0 5 
+		8 6 7
 
-1 2 3
-4 0 5 
-8 6 7
-
-->költség: 18
-->meglátogatott csomópontok:35212
+		->költség: 18
+		->meglátogatott csomópontok:35212
