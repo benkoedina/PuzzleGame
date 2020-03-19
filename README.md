@@ -17,7 +17,7 @@ A* algoritmus, 8-as kirakójáték:
 		-cancel :  kilépés a menüből.
 	Ha fájlból akarjuk megadni a kezdő állapotot a startPosition.txt fájlt kell megadni.
 	
-	1. Bemenet: (3*3-as mátrix formában kell megadni, másként nem megy a file-bólvaló olvasás)
+	1. Bemenet: (3*3-as mátrix formában kell megadni, másként nem megy a file-ból való olvasás, ha console-ból adjuk akkor meg soronként kell megadni)
 
 		1 8 2
 		0 4 3
