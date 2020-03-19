@@ -14,6 +14,7 @@ A* algoritmus, 8-as kirakójáték:
 		-solseq: a standard kimenetre írja a teljes megoldási szekvenciát.
 		-pcost: a standard kimenetre írja a megoldás költségét.
 		-nvisited: a standard kimenetre írja a meglátogatott csomópontok számát.
+		-cancel :  kilépés a menüből.
 	Ha fájlból akarjuk megadni a kezdő állapotot a startPosition.txt fájlt kell megadni.
 
 1. Bemenet:
